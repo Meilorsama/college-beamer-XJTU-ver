@@ -1,4 +1,6 @@
-# `college-beamer`
+# `college-beamer-XJTU-ver`
+
+个人用西安交通大学beamer改，图自己扣的，随便用
 
 Hi👋 Here are some beamer templates which are secondary creations of [SINTEF Presentation](https://www.overleaf.com/latex/templates/sintef-presentation/jhbhdffczpnx) template. Thanks [Federico Zenith](federico.zenith@sintef.no) for creating such well-designed works. To use it in my and my friends' schools/institutes, I rewrote and added some icons and features to adapt to specific surroundings✨.
 
